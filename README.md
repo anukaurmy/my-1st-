@@ -1,2 +1,3 @@
 # my-1st-
-it is just a test repo
+
+This is a test repo. i'm using it to under workflow and for practice 
